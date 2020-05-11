@@ -1,0 +1,70 @@
+.first{
+display: flex;
+}
+.first-1
+{
+background-color: red;
+height: 60px;
+width: 75%;
+
+}
+.first-2
+{
+background-color: blue;
+width :25%;
+height:60px;
+
+
+
+}
+.second{
+    display: flex;
+    
+}
+.second1{
+    background-color: crimson;
+    height:60px;
+    width: 75%;
+}
+.second2{
+    background-color: darkolivegreen;
+    height: 100px;
+}
+.third {
+    display: flex;
+
+}
+.third1{
+    background-color: deeppink;
+    height: 50px;
+    width: 50%;
+    
+}
+.third2{
+    background-color: gold;
+    height: 50px;
+    widows: 50px ;
+}
+.four{
+    display: flex;
+}
+.four1{
+    background-color: green;
+width: 33.33%;
+height: 33.33%;
+}
+.four2{
+    background-color: green;
+width: 33.33%;
+height: 33.33%;
+}
+.four3{
+    background-color: green;
+width: 33.33%;
+height: 33.33%;
+}
+.four4{
+    background-color: green;
+width: 33.33%;
+height: 33.33%;
+}

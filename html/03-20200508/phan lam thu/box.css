@@ -1,0 +1,21 @@
+.div all{
+    width: 25%;
+    height:300px;
+
+}
+.div dong-thu-nhat {
+    width:25%;
+height:100px;
+
+}
+.div dong-thu-hai{
+    width:75%;
+    height:300px;
+
+}
+.dongdau{
+    text-align: :center;
+    color:white;
+    background-color:grey;
+
+}

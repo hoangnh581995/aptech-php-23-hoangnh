@@ -1,0 +1,28 @@
+.nam-giua {
+text-align:center;
+
+}
+.mau-nen-xam {
+    background-color: gray;
+}
+.chutrang{
+    color: white;
+}
+.div-cha 
+{
+    display: flex;
+}
+.div-dau-tien{
+    width:25px;
+height: 100px;
+background-color: goldenrod;
+}
+.div-thu-hai{
+width: 75%;
+height:300px;
+background-color: hotpink;
+
+}
+.khong-ki-hieu{
+    list-style-type: none;
+}
