@@ -1,0 +1,32 @@
+@media only screen and (max-width: 1200px) {
+
+    .div-cha {
+        
+    }
+    &__divcha {
+        &--chinhhang {
+            display: flex;
+        }
+    }
+    &__div1 {
+        &--mauxanh {
+            background-color: red;
+            width: 60px;
+            height: 60px;
+        }
+    }
+    &__div2 {
+        &--maudo {
+            background-color: blue;
+            width: 60px;
+            height: 60px;
+        }
+    }
+    &__div3 {
+        &--mauvang {
+            background-color: yellow;
+            width: 60px;
+            height: 60px;
+        }
+    }
+}
