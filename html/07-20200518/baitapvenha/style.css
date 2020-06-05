@@ -1,0 +1,23 @@
+@media only screen and (max-width: 1200px) {
+  __divcha--chinhhang {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  __div1--mauxanh {
+    background-color: red;
+    width: 60px;
+    height: 60px;
+  }
+  __div2--maudo {
+    background-color: blue;
+    width: 60px;
+    height: 60px;
+  }
+  __div3--mauvang {
+    background-color: yellow;
+    width: 60px;
+    height: 60px;
+  }
+}
+/*# sourceMappingURL=style.css.map */

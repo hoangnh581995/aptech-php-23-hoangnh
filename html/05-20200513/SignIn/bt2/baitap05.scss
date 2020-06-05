@@ -1,0 +1,35 @@
+.content {
+    &__logo {
+        &--hinhvuong {
+            height: 72px;
+            widows: 72px;
+            
+        }
+    }
+    &__form {
+        &--form-sigin {
+            width: 100%;
+    max-width: 330px;
+    padding: 30px;
+    margin: auto;
+        }
+    }
+    &__inputpassword{
+        &--khongboderradius{
+            margin-bottom: 10px;
+            border-top-left-radius: 0;
+            border-top-right-radius: 0;
+            margin-top: -1px;
+            
+        }
+
+}
+}
+.heading {
+    &__top {
+    &--vitri {
+        position: relative;
+        top: 150px;
+    }
+}
+}

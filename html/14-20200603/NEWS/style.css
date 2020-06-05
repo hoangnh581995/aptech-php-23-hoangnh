@@ -1,0 +1,26 @@
+.bg-card-1{
+background-image: url('nk.jpg');
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+height: 295px;
+}
+.bg-card-2{
+background-image: url('1.jpeg.jpg');
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+height: 295px;
+}
+.mt-50{
+    margin-top: 50%;
+}
+.row-eq-height {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display:         flex;
+}
+.cachra{
+    margin-bottom: 5px;
+}

@@ -1,0 +1,24 @@
+.content__logo--hinhvuong {
+  height: 72px;
+  widows: 72px;
+}
+
+.content__form--form-sigin {
+  width: 100%;
+  max-width: 330px;
+  padding: 30px;
+  margin: auto;
+}
+
+.content__inputpassword--khongboderradius {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  margin-top: -1px;
+}
+
+.heading__top--vitri {
+  position: relative;
+  top: 150px;
+}
+/*# sourceMappingURL=baitap05.css.map */
