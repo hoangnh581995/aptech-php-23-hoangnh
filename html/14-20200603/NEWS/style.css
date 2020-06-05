@@ -1,16 +1,19 @@
 .bg-card-1{
-background-image: url('nk.jpg');
+background-image: url('anh1.jpg');
 background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
-height: 295px;
+height: 100%;
 }
 .bg-card-2{
-background-image: url('1.jpeg.jpg');
+background-image: url('anh2.jpg');
 background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
-height: 295px;
+height: 100%;
+}
+body,html{
+    height: 100%;
 }
 .mt-50{
     margin-top: 50%;
@@ -23,4 +26,14 @@ height: 295px;
 }
 .cachra{
     margin-bottom: 5px;
+}
+.chunamgiua{
+    margin-top: 50%;}
+
+.chieucaoanhcuoi{
+    height: 200px;
+    width: 500px;
+    background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
 }
